@@ -27,7 +27,7 @@
 ### 🛠️ Tech I Love
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,python,tensorflow,streamlit,html,css,js,git" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,python,tensorflow,html,css,js,git,github,vscode,mongodb" />
 </div>
 
 ---
