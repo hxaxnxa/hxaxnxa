@@ -35,7 +35,7 @@
 ### 🚀 Featured Projects
 
 - **🔍 RAG Pipeline with Gemini**  
-  Built a smart Retrieval-Augmented Generation system using **Gemini + Pinecone + LangChain** for contextual Q&A.
+  Built a smart Retrieval-Augmented Generation system using **Gemini + Weaviate + LangChain** for contextual Q&A.
 
 - **📈 LSTM Number Predictor**  
   Created a sequence prediction app using **TensorFlow LSTM**, hosted on **AWS EC2**, with a **Django frontend**.
